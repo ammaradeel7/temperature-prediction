@@ -1,1 +1,1 @@
-# temprature-prediction
+# temperature-prediction
